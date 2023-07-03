@@ -1,0 +1,64 @@
+{
+    "cars": [
+        {
+            "placa": "12345",
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "ano": "12-09-2002"
+        },
+        {
+            "placa": "54321",
+            "marca": "Fiat",
+            "modelo": "Uno",
+            "ano": "01-01-1990"
+        },
+        {
+            "placa": "01234",
+            "marca": "Honda",
+            "modelo": "Civic",
+            "ano": "14-09-2004"
+        },
+        {
+            "placa": "43210",
+            "marca": "Renault",
+            "modelo": "Sandero",
+            "ano": "30-08-2013"
+        },
+        {
+            "placa": "56789",
+            "marca": "Volskwagen",
+            "modelo": "Golf",
+            "ano": "15-06-2017"
+        },
+        {
+            "placa": "67890",
+            "marca": "Subaru",
+            "modelo": "Outback",
+            "ano": "17-11-1007"
+        },
+        {
+            "placa": "09876",
+            "marca": "Rolls Royce",
+            "modelo": "Phantom",
+            "ano": "31-01-2020"
+        },
+        {
+            "placa": "98765",
+            "marca": "Porsche",
+            "modelo": "Panamera",
+            "ano": "09-10-2018"
+        },
+        {
+            "placa": "83746",
+            "marca": "Ford",
+            "modelo": "ka",
+            "ano": "20-07-2015"
+        },
+        {
+            "placa": "38405",
+            "marca": "Lamborghini",
+            "modelo": "Gallardo",
+            "ano": "01-07-2014"
+        }
+    ]
+}
